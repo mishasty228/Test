@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\mygit\\test 5.0\\source\\test\\test.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\test\\definitions.test.h",
+            "f:\\mygit\\test 5.0\\source\\test\\test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

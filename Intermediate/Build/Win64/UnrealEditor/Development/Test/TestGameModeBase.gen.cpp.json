@@ -1,0 +1,31 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\testgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\test\\definitions.test.h",
+            "f:\\mygit\\test 5.0\\source\\test\\testgamemodebase.h",
+            "f:\\mygit\\test 5.0\\source\\test\\testpawn.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h",
+            "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\testpawn.generated.h",
+            "f:\\mygit\\test 5.0\\source\\test\\testplayercontroller.h",
+            "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\testplayercontroller.generated.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "f:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "f:\\mygit\\test 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\test\\testgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

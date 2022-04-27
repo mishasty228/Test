@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\Test.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestGameModeBase.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestPawn.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestPlayerController.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\Test.init.gen.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestGameModeBase.gen.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestPawn.gen.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\TestPlayerController.gen.cpp.obj"
+"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\Default.rc2.res"
+/OUT:"F:\MyGit\Test 5.0\Intermediate\Build\Win64\UnrealEditor\Development\Test\UnrealEditor-Test.lib"

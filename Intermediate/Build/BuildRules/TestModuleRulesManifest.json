@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"F:\\MyGit\\Test\\Source\\Test\\Test.Build.cs",
-		"F:\\MyGit\\Test\\Source\\Test.Target.cs",
-		"F:\\MyGit\\Test\\Source\\TestEditor.Target.cs"
+		"F:\\MyGit\\Test 5.0\\Source\\Test\\Test.Build.cs",
+		"F:\\MyGit\\Test 5.0\\Source\\Test.Target.cs",
+		"F:\\MyGit\\Test 5.0\\Source\\TestEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.2"
+	"EngineVersion": "5.0.1"
 }

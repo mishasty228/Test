@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Test",
-			"Path": "F:\\MyGit\\Test\\Source\\Test.Target.cs",
+			"Path": "F:\\MyGit\\Test 5.0\\Source\\Test.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TestEditor",
-			"Path": "F:\\MyGit\\Test\\Source\\TestEditor.Target.cs",
+			"Path": "F:\\MyGit\\Test 5.0\\Source\\TestEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
